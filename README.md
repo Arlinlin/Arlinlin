@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+My name is Marsha Arlinda Putri<br>
+I'm a student at Jember State Polytechnic<br>
+If you're interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/marsha-arlinda-putri/) account.<br>
 <!--
 **Arlinlin/Arlinlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
