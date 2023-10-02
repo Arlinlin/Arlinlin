@@ -1,7 +1,14 @@
-### Hi there 👋
-My name is Marsha Arlinda Putri<br>
+# Hi there 👋 I'm Marsha
 I'm a student at Jember State Polytechnic<br>
 If you're interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/marsha-arlinda-putri/) account.<br>
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/penuliscode">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Arlinlin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Arlinlin&layout=compact&theme=algolia"/> -->
+</a>
+</p>
 <!--
 **Arlinlin/Arlinlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
