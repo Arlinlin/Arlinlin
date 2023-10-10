@@ -6,7 +6,7 @@ If you're interested in getting to know me, please follow my [Linkedin](https://
 <p align="left">
 <a href="https://github.com/Arlinlin">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Arlinlin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Arlinlin&layout=compact&theme=algolia"/> -->
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Arlinlin&layout=compact&theme=algolia"/>
 </a>
 </p>
 <!--
